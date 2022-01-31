@@ -1,4 +1,4 @@
-# Balls ScreenSaver in JS
+# Circles in JS
 This is an example of creating like a Screensave using Javascript ECMA6. There is nothing specific used here only pure javascript Vanilla, that's all.
 Enjoy it !
 
@@ -29,9 +29,9 @@ If you want to add some text on screen, also you can uncomment out the following
 ## ScreenSaver result
 <img src="img.png">
 
-## Author
-Eduardo Diogo Garcia
-eduardo.diogo@gmail.com
-
 ## License
 MIT License
+
+## Author
+Eduardo Diogo Garcia /
+eduardo.diogo@gmail.com
